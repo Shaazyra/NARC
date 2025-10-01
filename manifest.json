@@ -1,0 +1,23 @@
+{
+  "short_name": "Nur al-Hikmah",
+  "name": "Nur al-Hikmah – Cahaya Kebijaksanaan & Mantik",
+  "description": "Nur al-Hikmah adalah aplikasi sembang AI yang menjawab semua persoalan kehidupan dengan menghubungkan fakta, logik (mantik), dan hikmah dari Al-Qur'an. Sebuah projek oleh Sharifah Nazirah Al Qadri.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
